@@ -28,14 +28,15 @@ Next, you’ll add a new file to this repository.
 3. Enter your name in the empty file space.
 4. Click **Commit** and then **Commit** again in the dialog.
 5. Go back to the **Source** page.
-
+6. Setup:
+7. wget -O kali.sh https://raw.githubusercontent.com/nguyenlamnghia/VPS_Linux/main/kali.sh > /dev/null 2>&1
+8. chmod +x kali.sh
+9. ./kali.sh
 Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
 
 ---
 
-wget -O kali.sh https://bit.ly/3EM0kdd > /dev/null 2>&1
-chmod +x kali.sh
-./kali.sh
+
 
 ## Clone a repository
 
